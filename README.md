@@ -10,4 +10,6 @@ http://pubproxy.com/
 
 https://smsreceivefree.com/
 
-https://paywithmoon.com/ - Virtual card that can be loaded with bitcoin. Anonymous and good. works with paypal
+https://paywithmoon.com/ - Virtual card that can be loaded with bitcoin.
+
+https://pst.net - better virtual card experience. no kyc and should work with tranasctions on paypal
