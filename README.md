@@ -13,3 +13,5 @@ https://smsreceivefree.com/
 https://paywithmoon.com/ - Virtual card that can be loaded with bitcoin.
 
 https://pst.net - better virtual card experience. no kyc and should work with tranasctions on paypal
+
+https://github.com/BlackArch/torctl - re-routes all network activity through tor (for linux)
