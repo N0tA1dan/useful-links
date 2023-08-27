@@ -17,3 +17,5 @@ https://pst.net - better virtual card experience. no kyc and should work with tr
 https://github.com/BlackArch/torctl - re-routes all network activity through tor (for linux)
 
 https://www.sharklasers.com/inbox
+
+trace bust ios app - this app can spoof your caller id successfully. You can sign up with voip and they dont check if it is a voip.
