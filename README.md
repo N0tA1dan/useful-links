@@ -19,3 +19,5 @@ https://github.com/BlackArch/torctl - re-routes all network activity through tor
 https://www.sharklasers.com/inbox
 
 trace bust ios app - this app can spoof your caller id successfully. You can sign up with voip and they dont check if it is a voip. they also have an apk
+
+https://en.fofa.info/ - host search can find backend ips
